@@ -16,7 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Support landscape device orientation
+* [X] Support landscape device orientation
+* [X] Adds user name input field for further Toast personalization.
 
 ## Video Walkthrough
 
