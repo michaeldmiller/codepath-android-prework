@@ -17,13 +17,14 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] Support landscape device orientation
-* [X] Adds user name input field for further Toast personalization.
+* [X] Add name input field for further Toast personalization
+* [X] Update styling and add a custom icon
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/gs4FLBQ.gif' title='Video Walkthrough' width='422px' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/T9iShBC.gif' title='Video Walkthrough' width='1304px' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

@@ -10,15 +10,15 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="329dp"
-        android:layout_height="36dp"
+        android:layout_width="362dp"
+        android:layout_height="82dp"
         android:layout_marginHorizontal="40dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginTop="68dp"
         android:text="@string/michael_intro"
         android:textAllCaps="false"
-        android:textSize="14sp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toEndOf="@+id/catImageView"
         app:layout_constraintTop_toTopOf="parent" />
 
